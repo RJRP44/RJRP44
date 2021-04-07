@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RJRP44
 - 👀 I’m interested in electronics
-- 🌱 I’m currently learning c
+- 🌱 I’m currently learning html / css
 - 🔨 I’m currently working on ouchat
 <!--- - 📫 How to reach me ...--->
 
